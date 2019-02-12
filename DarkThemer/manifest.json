@@ -11,7 +11,7 @@
           "theme_ntp_background":"images/theme_ntp_background.png"
        },
        "colors":{
-          "frame":[28,28,28],
+          "frame":[10,10,10],
           "toolbar":[107,107,107],
           "tab_text":[28,28,28],
           "tab_background_text":[28,28,28],
